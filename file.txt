@@ -2,5 +2,5 @@ FIRST LINE
 SECOND LINE
 THIRD LINE
 fourth line
-5th line
+conflict line
 6th line
